@@ -8,7 +8,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashutosh-Dubey18.Ashutosh-Dubey18)
 
 </p>
-<div size='20px'> Hi! My name is Ashutosh. I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.
+<div size='20px'>My name is Ashutosh. I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.
+</div>
+<div size='20px'>I am passionate about Web development and Competitive Coding & I open to learn new things. 
 </div>
 
 
@@ -43,11 +45,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Dubey18&count_private=true&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Dubey18&theme=cobalt" />
-</a>
+</a> -->
 
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
