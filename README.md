@@ -10,7 +10,7 @@
 </p>
 <div size='20px'>My name is Ashutosh. I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.
 </div>
-<div size='20px'>I am passionate about Web development and Competitive Coding & I open to learn new things. 
+<div size='20px'>I am passionate about Web development and Competitive Coding & open to learn new things. 
 </div>
 
 
