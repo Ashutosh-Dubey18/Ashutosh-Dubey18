@@ -53,4 +53,5 @@
 
 
 <!-- <br> -->
-
+Self-taught programmer. Looking to gain experience through open source.
+Love to create, experiment, and have fun.
