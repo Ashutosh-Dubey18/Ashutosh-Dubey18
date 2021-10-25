@@ -14,14 +14,14 @@
 </div>
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 
 - 🔭 I’m currently working on Open source.
 
-- 🌱 I’m currently learning Front-end web development, Spring.
+- 🌱 I’m currently learning Spring.
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles.
+- 👯 I’m looking to collaborate on Projects, Articles.
 
 - 💬 Talk to me about Java, Html, CSS, Javascript.
 
