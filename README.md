@@ -5,7 +5,6 @@
 <!-- <h1> Hello Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashutosh-Dubey18.Ashutosh-Dubey18)
 
 </p>
 <div size='20px'>My name is Ashutosh. I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.
@@ -13,6 +12,7 @@
 <div size='20px'>I am passionate about Web development and Competitive Coding & open to learn new things. 
 </div>
  -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashutosh-Dubey18.Ashutosh-Dubey18)
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
@@ -53,5 +53,6 @@
 
 
 <!-- <br> -->
-Self-taught programmer. Looking to gain experience through open source.
+<!-- Self-taught programmer. Looking to gain experience through open source.
 Love to create, experiment, and have fun.
+ -->
