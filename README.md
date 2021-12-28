@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="" alt="cover" />
 </div> -->
 
-<!-- <h1> Hello Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 
@@ -11,10 +11,10 @@
 </div>
 <div size='20px'>I am passionate about Web development and Competitive Coding & open to learn new things. 
 </div>
- -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashutosh-Dubey18.Ashutosh-Dubey18)
 
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashutosh-Dubey18.Ashutosh-Dubey18)
+ -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 <!-- - 🔭 I’m currently working on Open source.
