@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on Problem Solving and Developing Projects.
 
-- 🌱 I’m currently learning Cloud Development.
+- 🌱 I’m currently learning about Cloud Service.
 
 - 👯 I’m looking to collaborate on Projects, Articles.
 
