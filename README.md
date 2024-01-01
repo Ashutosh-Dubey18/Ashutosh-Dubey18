@@ -20,8 +20,6 @@
 
 - 🔭 I’m currently working on Problem Solving and Developing Projects.
 
-- 🌱 I’m currently learning about Machine Learning.
-
 - 👯 I’m looking to collaborate on Projects, Articles.
 
 - 💬 Talk to me about Java, Spring, react.js, Python.
