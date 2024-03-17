@@ -7,9 +7,9 @@
 
 
 </p>
-<div size='20px'>My name is Ashutosh. I’m pursuing my Bachelors in Computer Science & Engineering.
+<div size='20px'>My name is Ashutosh.
 </div>
-<div size='20px'>I am passionate about Web development and Competitive Coding & open to learn new things. 
+<div size='20px'>I am passionate about full stack development and problem-solving & open to contribute and learn. 
 </div>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashutosh-Dubey18.Ashutosh-Dubey18)
